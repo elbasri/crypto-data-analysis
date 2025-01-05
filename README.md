@@ -42,6 +42,9 @@ Install dependencies using pip:
 ```bash
 pip install dash plotly pandas networkx seaborn matplotlib
 ```
+### Kaggle Notebook
+[https://www.kaggle.com/code/nacernacer/analysis-of-binance-cryptocurrency-data](https://www.kaggle.com/code/nacernacer/analysis-of-binance-cryptocurrency-data)
+
 
 ### Running the Dashboard
 1. Clone the repository:
