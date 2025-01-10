@@ -12,7 +12,7 @@ usdt_pairs_info = [
 ]
 
 # Define the output CSV file
-output_file = "data/binance/usdt_trading_pairs_info.csv"
+output_file = "data/binance/usdt_trading_pairs_info-10-01-2025.csv"
 
 # Save detailed trading pair information to a CSV file
 with open(output_file, mode='w', newline='') as file:
