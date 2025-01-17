@@ -84,7 +84,3 @@ pip install dash plotly pandas networkx seaborn matplotlib
 [LinkedIn](https://www.linkedin.com/in/elbasri)
 
 Feel free to connect and share feedback!
-
----
-
-This repository showcases the integration of advanced Python libraries and APIs for cryptocurrency market analysis and visualization.
